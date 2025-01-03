@@ -140,6 +140,8 @@ If you have any questions or feedback, feel free to contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeelsoni)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeelsoni1011@gmail.com)
 [![Outlook](https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:langalia21627@hs-ansbach.de)
+[![Discord](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jeelsoni3)
+
 
 
 
