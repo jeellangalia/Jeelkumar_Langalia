@@ -15,6 +15,10 @@ Providing an executable file makes the program easy to run, even without install
 ## How It Works
 
 ### Data Extraction
+
+The executable file is too large for GitHub. You can download it here:
+[Download script.exe](https://drive.google.com/drive/folders/1DQlo_vadCjdLhMUCDnRx4fbEXMj_VRsO?usp=drive_link)
+
 The script extracts the following details from the sample invoices:
 1. **Invoice 1**:
    - **Date**: `2024-03-01`
