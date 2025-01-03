@@ -134,7 +134,8 @@ The executable file (`script.exe`) is too large to upload directly to GitHub. Yo
 ## Contact Information
 If you have any questions or feedback, feel free to contact me:  
 - **Name**: Jeelkumar Nikunjbhai Langalia 
-- **Email**: jeelsoni1011@gmail.com  
+- **Email**: jeelsoni1011@gmail.com
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeelsoni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeelsoni)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeelsoni1011@gmail.com)
