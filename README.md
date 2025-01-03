@@ -1,4 +1,12 @@
 # Werkstudent Python Task by Jeelkumar Langalia
+# Tools used : 
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) 
+[![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![ChatGPT](https://img.shields.io/badge/CHATGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
+
 
 ## Overview of Task
 This project is part of an interview task for the Werkstudent Python position. The goal of this task is to:
