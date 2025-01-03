@@ -25,7 +25,7 @@ This program was designed to make processing invoice data simple and efficient.
 ## How to Use This Program
 
 ### Option 1: Using the Executable File (For Non-Technical Users)
-1. **Download the Executable File**:
+1. **Download the Executable File**: (The executable file is too large for GitHub. You can download it here)
    - [Download script.exe](https://drive.google.com/drive/folders/1DQlo_vadCjdLhMUCDnRx4fbEXMj_VRsO?usp=drive_link)
 
 2. **Prepare the Files**:
@@ -46,7 +46,7 @@ This program was designed to make processing invoice data simple and efficient.
 
 ---
 
-### Option 2: Running the Python Script (For Technical Users)
+### Option 2: Running the Python Script 
 1. **Install Python**:
    - Download and install Python from [python.org](https://python.org).
 
