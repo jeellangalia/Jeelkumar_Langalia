@@ -4,12 +4,12 @@ Tools used: Git, GitHub, VS Code
 ## Overview of the Task
 This project is part of the Werkstudent Python interview task. The objective is to process data from sample invoices by:
 
-Extracting specific details such as dates and amounts.
-Generating an Excel file with two sheets:
+-Extracting specific details such as dates and amounts.
+-Generating an Excel file with two sheets:
 Sheet 1: Contains raw extracted data.
 Sheet 2: Includes a summary pivot table.
-Creating a CSV file with the extracted data.
-Providing an executable file makes the program easy to run, even without installing Python.
+-Creating a CSV file with the extracted data.
+-Providing an executable file makes the program easy to run, even without installing Python.
 
 
 ## How It Works
