@@ -125,7 +125,7 @@ The executable file (`script.exe`) is too large to upload directly to GitHub. Yo
 ---
 
 ## Improvements for the Future
-- Automate data extraction more effectively for varying PDF formats using advanced techniques (e.g., regular expressions).
+- Automate data extraction more effectively for varying PDF formats using advanced techniques.
 - Add error handling to notify users if files are missing or data extraction fails.
 - Optimize the size of the executable file.
 
